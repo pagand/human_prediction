@@ -10,7 +10,7 @@ How to cite:
 
 ::
 
-@article{pytorchpointnet++,
+  @article{pytorchpointnet++,
         Author = {Erik Wijmans},
         Title = {Pointnet++ Pytorch},
         Journal = {https://github.com/erikwijmans/Pointnet2_PyTorch},
