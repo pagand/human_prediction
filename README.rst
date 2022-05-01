@@ -10,6 +10,13 @@ How to cite:
 
 ::
 
+@article{pytorchpointnet++,
+        Author = {Erik Wijmans},
+        Title = {Pointnet++ Pytorch},
+        Journal = {https://github.com/erikwijmans/Pointnet2_PyTorch},
+        Year = {2018}
+  }
+
 @inproceedings{agandhuman,
   title={Human Navigational Intent Inference with Probabilistic and Optimal Approaches},
   author={Agand, Pedram and Taherahmadi, Mahdi and Lim, Angelica and Chen, Mo}
