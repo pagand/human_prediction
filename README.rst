@@ -9,6 +9,7 @@ ICRA 2022 Paper: [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=981
 [SUMO](https://github.com/eclipse/sumo)
 
 How to cite:
+::
 
   @inproceedings{agand2022human,
   title={Human Navigational Intent Inference with Probabilistic and Optimal Approaches},
