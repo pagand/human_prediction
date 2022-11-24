@@ -8,6 +8,7 @@ A  general probabilistic framework to infer the probability distribution over fu
 More information: [link](https://upaspro.com/human-navigational-intent-inference-with-probabilistic-and-optimal-approaches/)
 
 ICRA 2022 Paper: [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9811883)
+[SUMO](https://github.com/eclipse/sumo)
 
 How to cite:
 --------
